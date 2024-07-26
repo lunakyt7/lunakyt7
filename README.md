@@ -1,7 +1,7 @@
 ### Olá! eu sou o zlys
 
 - ⌨️ Trabalhando com front-end 
-- 📔 Estudando Javascript & python
+- 📔 Estudando Javascript
 - 📈 Faço sites html, css & javascript
 - 💼 Contate-me via gmail: zlysec@proton.me
 - 🧑🏻‍💻 Engenheiro social, ex hacktivista
