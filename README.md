@@ -14,6 +14,7 @@
 
   ##
 <div> 
+  <p align="left" style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
   <a href="https://t.me/linuxsexxual" target="_blank"><img src="https://media.discordapp.net/attachments/1408891527316639786/1424094543736864878/telegram.png?ex=68e2b2e5&is=68e16165&hm=b4eb0613e0c66ae629c50a6de778e7758d51504b9e2adedad29923f545a55a45&" target="_blank"></a>
   <a href="https://discord.com/@mintlinux_x86_x64" target="_blank"><img src="https://media.discordapp.net/attachments/1408891527316639786/1424096086079049838/discord.png?ex=68e2b455&is=68e162d5&hm=174d06aff4120a14e12ca752e0eb65d6aa0cd111cdd49550a6b6337e99df1bc4&" target="_blank"></a>
  	<a href="https://x.com/necr0teri" target="_blank"><img src="https://media.discordapp.net/attachments/1408891527316639786/1424096463780057273/twitter1.png?ex=68e2b4af&is=68e1632f&hm=093512f2f0b218b2d9167f766e12b81755dbc4cf79cbe8c51405328a9117d0eb&" target="_blank"></a>
