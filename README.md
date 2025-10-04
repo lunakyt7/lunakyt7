@@ -16,12 +16,12 @@
 
 <div style="display: flex; gap: 15px; align-items: center;">
   <a href="https://t.me/linuxsexxual" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111647.png" alt="Telegram" style="width: 30px; height: 30px; filter: invert(0%);">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" style="width: 30px; height: 30px; fill: black;">
   </a>
   <a href="https://discord.com/@mintlinux_x86_x64" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111371.png" alt="Discord" style="width: 30px; height: 30px; filter: invert(0%);">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" style="width: 30px; height: 30px; fill: black;">
   </a>
   <a href="https://x.com/necr0teri" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733635.png" alt="Twitter" style="width: 30px; height: 30px; filter: invert(0%);">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" style="width: 30px; height: 30px; fill: black;">
   </a>
 </div>
